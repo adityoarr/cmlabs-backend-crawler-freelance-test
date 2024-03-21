@@ -1,6 +1,6 @@
 # cmlabs-backend-crawler-freelance-test
 
-## API for crawling website. built using Express.js
+## API for simple crawling website. built using Express.js
 
 ### Website:
 
